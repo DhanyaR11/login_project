@@ -33,6 +33,5 @@ myproject/
 ├── db.sqlite3 # Database
 ├── manage.py # Django management file
 └── README.md # Project documentation
-
 ## 📂 Project Structure
 
